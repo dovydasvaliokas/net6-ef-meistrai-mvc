@@ -1,4 +1,9 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using meistrai_mvc_mano.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<meistrai_mvc_manoContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("meistrai_mvc_manoContext") ?? throw new InvalidOperationException("Connection string 'meistrai_mvc_manoContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
