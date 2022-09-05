@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using meistrai_mvc_mano.Data;
+using meistrai_mvc_mano.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<meistrai_mvc_manoContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("meistrai_mvc_manoContext") ?? throw new InvalidOperationException("Connection string 'meistrai_mvc_manoContext' not found.")));
@@ -9,6 +11,13 @@ builder.Services.AddDbContext<meistrai_mvc_manoContext>(options =>
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+
+    SeedData.Initialize(services);
+}
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
