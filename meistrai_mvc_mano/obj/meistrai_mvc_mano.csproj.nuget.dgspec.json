@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\asp.net\\baigiamieji\\meistrai_mvc_mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj": {}
+    "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\asp.net\\baigiamieji\\servisai-mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\asp.net\\baigiamieji\\meistrai_mvc_mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj": {
+    "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\asp.net\\baigiamieji\\servisai-mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\asp.net\\baigiamieji\\meistrai_mvc_mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj",
+        "projectUniqueName": "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\asp.net\\baigiamieji\\servisai-mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj",
         "projectName": "meistrai_mvc_mano",
-        "projectPath": "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\asp.net\\baigiamieji\\meistrai_mvc_mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj",
-        "packagesPath": "C:\\Users\\ADFADFDA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADFADFDA\\Desktop\\pamokos6-NET-programavimas\\asp.net\\baigiamieji\\meistrai_mvc_mano\\meistrai_mvc_mano\\obj\\",
+        "projectPath": "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\asp.net\\baigiamieji\\servisai-mano\\meistrai_mvc_mano\\meistrai_mvc_mano.csproj",
+        "packagesPath": "C:\\Users\\Kompiuteris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kompiuteris\\Desktop\\pamokos6_pprogramavimas_net\\asp.net\\baigiamieji\\servisai-mano\\meistrai_mvc_mano\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADFADFDA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kompiuteris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,18 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
