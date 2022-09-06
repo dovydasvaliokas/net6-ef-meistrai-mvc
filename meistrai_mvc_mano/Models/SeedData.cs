@@ -7,6 +7,8 @@ namespace meistrai_mvc_mano.Models
     {
         public static void Initialize(IServiceProvider serviceProvider)
         {
+            // Kintamųjų objektai
+
             // Specializations
             using (var context = new meistrai_mvc_manoContext(
                 serviceProvider.GetRequiredService<
@@ -49,6 +51,37 @@ namespace meistrai_mvc_mano.Models
                             Name = "Mašinų Namai",
                             Manager = "Beleka Belekauskas",
                             Address = "1, Pragaro g., Skuodas"
+                        }
+                    );
+
+                    context.SaveChanges();
+                }
+            }
+
+            // AutoWorker
+            using (var context = new meistrai_mvc_manoContext(
+                serviceProvider.GetRequiredService<
+                    DbContextOptions<meistrai_mvc_manoContext>>()))
+            {
+                if (!context.AutoWorker.Any())
+                {
+                    context.AutoWorker.AddRange(
+                        new AutoWorker
+                        {
+                            Name = "Aidas",
+                            Surname = "Opss",
+                            City = "Kaunas",
+                            Nuotrauka = "asjdasd",
+                            AutoService = new AutoService(1)
+
+                        },
+                        new AutoWorker
+                        {
+                            Name = "Vidas",
+                            Surname = "Video",
+                            City = "Skuodas",
+                            Nuotrauka = "Sfregfrs",
+                            AutoService = new AutoService(2)
                         }
                     );
 

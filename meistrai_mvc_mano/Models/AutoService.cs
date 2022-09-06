@@ -2,6 +2,24 @@
 {
     public class AutoService
     {
+        public AutoService()
+        {
+
+        }
+
+        public AutoService(int id)
+        {
+            Id = id;
+        }
+
+        public AutoService(string name, string manager, string address, ICollection<AutoWorker> autoWorkers)
+        {
+            Name = name;
+            Manager = manager;
+            Address = address;
+            AutoWorkers = autoWorkers;
+        }
+
         public int Id { get; set; }
         public string Name { get; set; }
         public string Manager { get; set; }

@@ -17,5 +17,7 @@ namespace meistrai_mvc_mano.Data
         public DbSet<meistrai_mvc_mano.Models.Specialization> Specialization { get; set; } = default!;
 
         public DbSet<meistrai_mvc_mano.Models.AutoService>? AutoService { get; set; }
+
+        public DbSet<meistrai_mvc_mano.Models.AutoWorker>? AutoWorker { get; set; }
     }
 }
