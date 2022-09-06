@@ -12,7 +12,7 @@ using meistrai_mvc_mano.Data;
 namespace meistrai_mvc_mano.Migrations
 {
     [DbContext(typeof(meistrai_mvc_manoContext))]
-    [Migration("20220905082107_InitialCreate")]
+    [Migration("20220906065132_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

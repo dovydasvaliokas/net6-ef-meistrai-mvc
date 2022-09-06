@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\asp.net\baigiamieji\servisai-mano\meistrai_mvc_mano
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
