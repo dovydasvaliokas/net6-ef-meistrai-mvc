@@ -8,97 +8,97 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = meistrai_mvc_mano
 build_property.RootNamespace = meistrai_mvc_mano
-build_property.ProjectDir = C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\asp.net\baigiamieji\servisai-mano\meistrai_mvc_mano\
+build_property.ProjectDir = C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kompiuteris\Desktop\pamokos6_pprogramavimas_net\asp.net\baigiamieji\servisai-mano\meistrai_mvc_mano
+build_property.MSBuildProjectDirectory = C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Create.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoServices/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Delete.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoServices/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Details.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoServices/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Edit.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoServices/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoServices/Index.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoServices/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1NlcnZpY2VzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoWorkers/Create.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoWorkers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1dvcmtlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoWorkers/Delete.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoWorkers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1dvcmtlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoWorkers/Details.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoWorkers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1dvcmtlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoWorkers/Edit.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoWorkers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1dvcmtlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/AutoWorkers/Index.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/AutoWorkers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0b1dvcmtlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Home/Index.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Home/Privacy.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Shared/Error.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Specializations/Create.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Specializations/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YXRpb25zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Specializations/Delete.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Specializations/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YXRpb25zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Specializations/Details.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Specializations/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YXRpb25zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Specializations/Edit.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Specializations/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YXRpb25zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Specializations/Index.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Specializations/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3BlY2lhbGl6YXRpb25zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/_ViewImports.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/_ViewStart.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Kompiuteris/Desktop/pamokos6_pprogramavimas_net/asp.net/baigiamieji/servisai-mano/meistrai_mvc_mano/Views/Shared/_Layout.cshtml]
+[C:/Users/ADFADFDA/Desktop/pamokos6-NET-programavimas/asp.net/baigiamieji/meistrai_mvc_mano/meistrai_mvc_mano/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-azev3l7o68

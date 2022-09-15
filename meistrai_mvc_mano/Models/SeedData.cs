@@ -71,8 +71,8 @@ namespace meistrai_mvc_mano.Models
                             Name = "Aidas",
                             Surname = "Opss",
                             City = "Kaunas",
-                            Nuotrauka = "asjdasd",
-                            AutoService = new AutoService(1)
+                            Nuotrauka = "asjdasd"
+                            //        AutoService = new AutoService(1)
 
                         },
                         new AutoWorker
@@ -80,8 +80,8 @@ namespace meistrai_mvc_mano.Models
                             Name = "Vidas",
                             Surname = "Video",
                             City = "Skuodas",
-                            Nuotrauka = "Sfregfrs",
-                            AutoService = new AutoService(2)
+                            Nuotrauka = "Sfregfrs"
+                            //         AutoService = new AutoService(1)
                         }
                     );
 

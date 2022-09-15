@@ -8,6 +8,8 @@
         public string City { get; set; }
         public string Nuotrauka { get; set; }
         public AutoService AutoService { get; set; }
+        public ICollection<WorkerRating> WorkerRatings { get; set; }
+        public ICollection<Specialization> Specializations { get; set; }
 
     }
 }
