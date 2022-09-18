@@ -295,7 +295,6 @@ C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistra
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -530,3 +529,6 @@ C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistra
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\obj\Debug\net6.0\meistrai_mvc_mano.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\obj\Debug\net6.0\meistrai_mvc_mano.csproj.CopyComplete
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\ADFADFDA\Desktop\pamokos6-NET-programavimas\asp.net\baigiamieji\meistrai_mvc_mano\meistrai_mvc_mano\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
