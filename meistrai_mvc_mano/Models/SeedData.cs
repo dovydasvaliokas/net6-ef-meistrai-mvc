@@ -7,6 +7,7 @@ namespace meistrai_mvc_mano.Models
     {
         public static void Initialize(IServiceProvider serviceProvider)
         {
+            return;
             // Kintamųjų objektai
 
             // Specializations
